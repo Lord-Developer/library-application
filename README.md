@@ -1,7 +1,7 @@
 # library-application
 
 There are three different roles in the project:
-  **- USER;
+**  - USER;
   - MODERATOR;
   - ADMIN;**
 Default: 
