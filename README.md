@@ -1,10 +1,10 @@
 # library-application
 
-There are three different roles in the project:
+* There are three different roles in the project:
   - USER;
   - MODERATOR;
   - ADMIN;
-Default: 
+* Default: 
   - Admin:
       - username: admin;
       - password: admin;
