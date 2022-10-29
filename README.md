@@ -5,12 +5,12 @@ There are three different roles in the project:
   - MODERATOR;
   - ADMIN;**
 Default: 
-  Admin:
+  - Admin:
       Username: admin;
       Password: admin;
-  Moderator:
+  - Moderator:
       Username: moderator;
       Password: moderator;
-  User:
+  - User:
       Username: user;
       Password: user;
